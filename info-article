@@ -1,0 +1,19 @@
+inside the layouts folder 
+
+create header.html file which contains such codes
+
+
+alse create a footer.html file which contains code related to the footer section of the page.
+
+add the menu.html which contain the code realated the no of menus show on the main page.
+
+
+
+Now inside the pages folder 
+
+1. create a index.html page . which is the main page of the our crud operation.
+2. create a new.html page which help us to and a new record in the database.
+3. create a show.html page. it is use to represent the details of the user.
+4. create a edit.html page. which is use for editing the details of the user.
+
+

@@ -1,0 +1,45 @@
+user manager
+
+1. Name
+2. E-mail
+3. Status
+4. Address
+5. Sr.no
+
+step first
+
+cd /var/projects/go/src
+export GOPATH=/var/projects/go
+export PATH=$PATH:$GOPATH/bin
+
+revel run -a myapp/
+
+
+make a authentication in 
+
+------------------------!!!!!!!!!!!!!---------------------
+basic commands for make a ravel projects setup.
+
+# get 'revel' framework and command
+go get github.com/revel/cmd/revel
+
+# Get the example apps
+git clone https://github.com/revel/examples \
+$GOPATH/src/github.com/revel/examples
+
+# revel the chat app
+revel run github.com/revel/examples/chat
+# create a new app and run
+revel new github.com/myaccount/my-app
+
+
+first i create a crud folder why using `revel new project-name`
+
+after the creation of project the projects structure look like as
+
+		revel-1.png from the desktop.
+
+Now run the server and see into the your browser 
+
+		revel-res-1.png from the desktop.
+

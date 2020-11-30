@@ -1,4 +1,2 @@
-# Revel
-The golang frameworks.
 
 
